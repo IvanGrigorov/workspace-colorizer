@@ -5,6 +5,7 @@ Allows you to see the workspace when file is opened and customize it with colors
 
 On click over the status you can change color with every hex you want (just add it with # prefix, ex. #ffffff)
 
+![Alt Text](https://raw.githubusercontent.com/IvanGrigorov/workspace-colorizer/master/assets/workspace-colorizer.png)
 
 ## Support
 
